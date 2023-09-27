@@ -32,7 +32,3 @@ The project follows the following structure:
 ## Model Evaluation
 The model's performance is evaluated using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). You can visualize the actual vs. predicted stock prices using the provided code in the notebook.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to use, modify, and distribute this code for your own projects or learning purposes. If you have any questions or suggestions, please feel free to reach out.
