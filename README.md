@@ -51,6 +51,6 @@ We've identified potential risks and challenges and developed strategies and con
 
 The Stock Price Prediction project aspires to deliver a valuable tool for investors, providing them with the ability to forecast stock prices accurately based on historical market data. This design document serves as a comprehensive roadmap for the successful execution of the project.
 
-For more details, please refer to the [full project design document](link-to-document.md).
+For more details, please refer to the [full project design document](https://github.com/CodeMarshall21/Stock-Price-Prediction/blob/main/Stock%20Price%20Prediction%20Project%20Design%20Document.pdf).
 
 ---
